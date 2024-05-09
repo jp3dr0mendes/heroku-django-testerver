@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+heroku-home/
 
 # Spyder project settings
 .spyderproject

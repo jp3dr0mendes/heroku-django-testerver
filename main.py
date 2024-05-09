@@ -1,0 +1,1 @@
+#TODO: Resetar e reconfigurar Postgres no computador e configurar heroku
